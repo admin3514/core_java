@@ -34,7 +34,7 @@ Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code wr
 <hr>
 
 ✅ **Components of Java** <br>
-
+![Alt text](JDK-JRE-JVM.webp)
 
 <hr>
 
