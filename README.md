@@ -43,20 +43,20 @@ JRE = JVM + libraries
 JVM = runs the code
 ```
 
-🔹 JDK (Java Development Kit)
-  **What it is :** The full toolkit for Java developers.
-  **Contains :** JRE (so it includes JVM too) Development tools: javac (compiler), javadoc, jar, etc.
-  **Function :** Lets you write, compile, and run Java code.
+🔹 *JDK (Java Development Kit)* <br>
+  **What it is :** The full toolkit for Java developers. <br>
+  **Contains :** JRE (so it includes JVM too) Development tools: javac (compiler), javadoc, jar, etc. <br>
+  **Function :** Lets you write, compile, and run Java code. <br>
+
+🔹 *JRE (Java Runtime Environment)* <br>
+  **What it is :** The runtime needed to run Java applications. <br>
+  **Contains :** JVM, Core libraries (rt.jar), Other supporting files <br>
+  **Function :** Runs already compiled Java programs (you can’t compile Java code with just the JRE). <br>
 
 🔹 *JVM (Java Virtual Machine)* <br>
   **What it is :** A virtual machine that runs Java bytecode. <br>
   **Function :** It interprets or compiles .class files (bytecode) into machine code for your specific OS and hardware. <br>
   **Key point :** JVM is platform-dependent (different JVMs for Windows, Mac, Linux), but the bytecode is platform-independent. <br>
-
-🔹 JRE (Java Runtime Environment) <br>
-  **What it is :** The runtime needed to run Java applications. <br>
-  **Contains :** JVM, Core libraries (rt.jar), Other supporting files <br>
-  **Function :** Runs already compiled Java programs (you can’t compile Java code with just the JRE). <br>
   
 <hr>
 
