@@ -38,9 +38,9 @@ Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code wr
 ![Alt text](JDK-JRE-JVM.webp) <br>
 
 🔹 *JVM (Java Virtual Machine)* <br>
- What it is: A virtual machine that runs Java bytecode. <br>
- Function: It interprets or compiles .class files (bytecode) into machine code for your specific OS and hardware. <br>
- Key point: JVM is platform-dependent (different JVMs for Windows, Mac, Linux), but the bytecode is platform-independent. <br>
+  **What it is :** A virtual machine that runs Java bytecode. <br>
+ **Function :** It interprets or compiles .class files (bytecode) into machine code for your specific OS and hardware. <br>
+ **Key point :** JVM is platform-dependent (different JVMs for Windows, Mac, Linux), but the bytecode is platform-independent. <br>
 
 
 <hr>
