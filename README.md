@@ -7,6 +7,13 @@ Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code wr
 
 <hr>
 
+🕰️ **Java History** <br>
+**1991 :** Java was initiated by James Gosling and his team at Sun Microsystems as a project called Oak, designed for embedded systems.  <br>
+**1995 :** Oak was renamed Java, and Java 1.0 was officially released. The slogan was "Write Once, Run Anywhere".  <br>
+**2009 :** Oracle Corporation acquired Sun Microsystems and took over Java development.  <br>
+
+<hr>
+
 ✅ **Key Features of Java**
 ```ssh
 
