@@ -12,15 +12,17 @@ Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code wr
 
 | Feature                  | Description                                                                 |
 | ------------------------ | --------------------------------------------------------------------------- |
-| **Simple**               | Easy to learn, syntax similar to C/C++                                      |
-| **Object-Oriented**      | Based on real-world objects and concepts like inheritance and polymorphism  |
-| **Platform Independent** | Java code runs on any OS using JVM (Java Virtual Machine)                   |
-| **Secure**               | Provides runtime checking and no pointer manipulation                       |
-| **Robust**               | Strong memory management and exception handling                             |
-| **Multithreaded**        | Supports concurrent execution of two or more threads                        |
-| **High Performance**     | Bytecode is optimized and executed by the JVM                               |
-| **Distributed**          | Supports distributed computing via networking packages (e.g., RMI, sockets) |
-| **Portable**             | Java programs can be moved easily from one system to another                |
+|   Simple                 | Easy to learn, syntax similar to C/C++                                      |
+
+|   Object-Oriented        | Based on real-world objects and concepts like inheritance and polymorphism  |
+
+|   Platform Independent   | Java code runs on any OS using JVM (Java Virtual Machine)                   |
+|   Secure                 | Provides runtime checking and no pointer manipulation                       |
+|   Robust                 | Strong memory management and exception handling                             |
+|   Multithreaded          | Supports concurrent execution of two or more threads                        |
+|   High Performance       | Bytecode is optimized and executed by the JVM                               |
+|   Distributed            | Supports distributed computing via networking packages (e.g., RMI, sockets) |
+|   Portable               | Java programs can be moved easily from one system to another                |
 
 ```
 
