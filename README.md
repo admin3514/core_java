@@ -259,4 +259,13 @@ class MyThread extends Thread {
  - It is a Java API that allows Java applications to connect to databases and perform CRUD operations (Create, Read, Update, Delete).  <br>
  - Part of Java SE (Standard Edition).  <br>
 
+ <hr>
+
+🧱 **JDBC Architecture**
+
+ 1. *JDBC API* – Interfaces and classes used by the application.
+ 2. *JDBC Driver Manager* – Manages database drivers.
+ 3. *JDBC Driver* – Translates JDBC calls into database-specific calls.
+ 4. *Database* – The actual data storage (e.g., MySQL, Oracle, PostgreSQL).
+
 
