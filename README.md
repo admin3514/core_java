@@ -80,7 +80,7 @@ JVM = runs the code
 
 <hr>
 
-✅ **1. OOPs Concepts (Object-Oriented Programming)**
+✅ **1. OOPs Concepts (Object-Oriented Programming)** <br>
 ➤ **Class:**
 A class is a blueprint or template that defines properties (fields) and behaviors (methods) of an object.
 ```ssh
