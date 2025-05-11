@@ -50,14 +50,14 @@ Hides complex implementation details and shows only necessary parts using abstra
 <hr>
 
 ✅ **2. Data Types in Java** <br>
-➤ **Primitive Types:**
+➤ **Primitive Types :**
 int, float, char, double, byte, short, long, boolean
 ```ssh
 int x = 10;
 char c = 'A';
 ```
 
-➤ **Non-Primitive Types:**
+➤ **Non-Primitive Types :**
 Arrays, Strings, Classes, Interfaces
 ```ssh
 String name = "Java";
