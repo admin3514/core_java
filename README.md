@@ -92,9 +92,19 @@ Control visibility of classes and members:
 ```ssh
 | Modifier    | Class | Package | Subclass | World |
 | ----------- | ----- | ------- | -------- | ----- |
-| `private`   | ✅     | ❌       | ❌        | ❌     |
-| (default)   | ✅     | ✅       | ❌        | ❌     |
-| `protected` | ✅     | ✅       | ✅        | ❌     |
-| `public`    | ✅     | ✅       | ✅        | ✅     |
+| private     | ✅    | ❌     | ❌       | ❌   |
+| (default)   | ✅    | ✅     | ❌       | ❌   |
+| protected   | ✅    | ✅     | ✅       | ❌   |
+| public      | ✅    | ✅     | ✅       | ✅   |
 ```
 
+<hr>
+
+✅ **5. Important Java Keywords**  <br>
+
+*this*   - Refers to current object
+*super*  - Refers to parent class
+*final*  - Prevents change (variable), override (method), or inheritance (class)
+*static* - Belongs to class, not object
+*abstract* - Used to declare abstract class/method
+*synchronized* - Ensures thread safety
