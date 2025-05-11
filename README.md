@@ -1,5 +1,31 @@
 # core_java
 
+✅ **What is Java?**
+Java is a high-level, object-oriented, and platform-independent programming language developed by Sun Microsystems in 1995. It is widely used to build web applications, desktop applications, mobile apps, enterprise software, and more. <br>
+
+Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code written on one platform can run on any other platform that supports Java without needing to be recompiled.
+
+<hr>
+
+✅ **Key Features of Java**
+```ssh
+
+| Feature                  | Description                                                                 |
+| ------------------------ | --------------------------------------------------------------------------- |
+| **Simple**               | Easy to learn, syntax similar to C/C++                                      |
+| **Object-Oriented**      | Based on real-world objects and concepts like inheritance and polymorphism  |
+| **Platform Independent** | Java code runs on any OS using JVM (Java Virtual Machine)                   |
+| **Secure**               | Provides runtime checking and no pointer manipulation                       |
+| **Robust**               | Strong memory management and exception handling                             |
+| **Multithreaded**        | Supports concurrent execution of two or more threads                        |
+| **High Performance**     | Bytecode is optimized and executed by the JVM                               |
+| **Distributed**          | Supports distributed computing via networking packages (e.g., RMI, sockets) |
+| **Portable**             | Java programs can be moved easily from one system to another                |
+
+```
+
+<hr>
+
 ✅ **1. OOPs Concepts (Object-Oriented Programming)**
 ➤ **Class:**
 A class is a blueprint or template that defines properties (fields) and behaviors (methods) of an object.
@@ -166,3 +192,7 @@ class MyThread extends Thread {
 ```
 ➤ *Methods:*
  - start(), run(), sleep(), join(), wait(), notify()
+
+
+<hr>
+
