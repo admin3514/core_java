@@ -49,5 +49,46 @@ Hides complex implementation details and shows only necessary parts using abstra
 
 <hr>
 
+✅ **2. Data Types in Java**
+➤ **Primitive Types:**
+int, float, char, double, byte, short, long, boolean
+```ssh
+int x = 10;
+char c = 'A';
+```
+
+➤ **Non-Primitive Types:**
+Arrays, Strings, Classes, Interfaces
+```ssh
+String name = "Java";
+```
+
+<hr>
+
+✅ **3. Control Statements**
+➤ **Conditional:**
+if, else, switch - decision making
+```ssh
+if (a > b) { System.out.println("A is greater"); }
+```
+
+➤ **Loops:**
+for, while, do-while - to repeat code
+```ssh
+for (int i = 0; i < 5; i++) {
+  System.out.println(i);
+}
+```
+
+➤ **Jumping:**
+break, continue, return
+```ssh
+for (int i = 0; i < 10; i++) {
+  if (i == 5) break;
+}
+```
+
+<hr>
+
 
 
