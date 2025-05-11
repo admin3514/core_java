@@ -31,6 +31,13 @@ Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code wr
  2. Compiler (javac) → Converts source code to bytecode (.class) <br>
  3. Java Virtual Machine (JVM) → Executes the bytecode on any platform <br>
 
+<hr>
+
+✅ **Components of Java** <br>
+
+
+<hr>
+
 ✅ **1. OOPs Concepts (Object-Oriented Programming)**
 ➤ **Class:**
 A class is a blueprint or template that defines properties (fields) and behaviors (methods) of an object.
