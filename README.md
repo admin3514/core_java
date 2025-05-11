@@ -1,6 +1,6 @@
 # core_java
 
-✅ **What is Java?**
+✅ **What is Java?** <br>
 Java is a high-level, object-oriented, and platform-independent programming language developed by Sun Microsystems in 1995. It is widely used to build web applications, desktop applications, mobile apps, enterprise software, and more. <br>
 
 Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code written on one platform can run on any other platform that supports Java without needing to be recompiled.
