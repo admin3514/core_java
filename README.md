@@ -87,5 +87,6 @@ for (int i = 0; i < 10; i++) {
 
 <hr>
 
-
+✅ **4. Access Modifiers**
+Control visibility of classes and members:
 
