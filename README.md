@@ -13,9 +13,7 @@ Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code wr
 | Feature                  | Description                                                                 |
 | ------------------------ | --------------------------------------------------------------------------- |
 |   Simple                 | Easy to learn, syntax similar to C/C++                                      |
-
 |   Object-Oriented        | Based on real-world objects and concepts like inheritance and polymorphism  |
-
 |   Platform Independent   | Java code runs on any OS using JVM (Java Virtual Machine)                   |
 |   Secure                 | Provides runtime checking and no pointer manipulation                       |
 |   Robust                 | Strong memory management and exception handling                             |
@@ -27,6 +25,11 @@ Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code wr
 ```
 
 <hr>
+
+✅ **Java Architecture** <br> 
+ 1. Java Source Code (.java) → Written by the programmer  <br>
+ 2. Compiler (javac) → Converts source code to bytecode (.class) <br>
+ 3. Java Virtual Machine (JVM) → Executes the bytecode on any platform <br>
 
 ✅ **1. OOPs Concepts (Object-Oriented Programming)**
 ➤ **Class:**
