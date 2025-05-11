@@ -57,20 +57,12 @@ JVM = runs the code
   
 <hr>
 
-<div style="display: flex; align-items: center;">
-
-  <img src="https://github.com/admin3514/core_java/blob/main/JDK-JRE-JVM.webp?raw=true" alt="Java Components" width="300" />
-
-  <div style="margin-left: 20px;">
-    <h3>Components of Java</h3>
-    <ul>
-      <li><strong>JVM</strong>: Executes Java bytecode</li>
-      <li><strong>JRE</strong>: JVM + Libraries (runs programs)</li>
-      <li><strong>JDK</strong>: JRE + Development tools (builds and runs programs)</li>
-    </ul>
-  </div>
-
-</div>
+✅ **Popular Java Applications** <br>
+ - Web applications (Spring, JSP)
+ - Android apps
+ - Enterprise software
+ - Game development
+ - Big data and cloud-based systems
 
 <hr>
 
