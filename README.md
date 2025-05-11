@@ -268,4 +268,14 @@ class MyThread extends Thread {
  3. *JDBC Driver* – Translates JDBC calls into database-specific calls.
  4. *Database* – The actual data storage (e.g., MySQL, Oracle, PostgreSQL).
 
+<hr>
+
+🔄 **Types of JDBC Drivers**
+
+| Type | Name                        | Description                                               |
+| ---- | --------------------------- | --------------------------------------------------------- |
+| 1    |  JDBC-ODBC Bridge Driver    | Translates JDBC calls to ODBC; now outdated.              |
+| 2    |  Native-API Driver          | Uses native libraries of the DBMS; platform-dependent.    |
+| 3    |  Network Protocol Driver    | Sends calls to a middleware server; platform-independent. |
+| 4    |  Thin Driver (Pure Java)    | Directly connects to DB via Java; most commonly used.     |
 
