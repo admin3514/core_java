@@ -290,4 +290,24 @@ class MyThread extends Thread {
  5. Process Results
  6. Close the Connection
 
+<hr>
 
+🧑‍💻 **Basic JDBC Code Example**
+
+```ssh
+import java.sql.*;
+
+public class JdbcExample {
+    public static void main(String[] args) throws Exception {
+        Class.forName("com.mysql.cj.jdbc.Driver"); // 1. Load driver
+        Connection con = DriverManager.getConnection(
+            "jdbc:mysql://localhost:3306/mydb", "root", "password"); // 2. Connect
+        Statement stmt = con.createStatement(); // 3. Create statement
+        ResultSet rs = stmt.executeQuery("SELECT * FROM users"); // 4. Execute query
+        while (rs.next()) {
+            System.out.println(rs.getString("username")); // 5. Process results
+        }
+        con.close(); // 6. Close connection
+    }
+}
+```
