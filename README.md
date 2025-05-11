@@ -142,4 +142,27 @@ Helps in storing, manipulating, and retrieving data efficiently.
 | Map       | HashMap, TreeMap, LinkedHashMap |
 ```
 
+➤ **Example:** <br>
 
+```ssh
+List<String> list = new ArrayList<>();
+list.add("Apple");
+```
+
+<hr>
+
+✅ **8. Multithreading** <br>
+Allows concurrent execution of two or more threads (lightweight processes).
+➤ *Ways to create thread:* <br>
+ - Extending Thread class
+ - Implementing Runnable interface
+
+```ssh
+class MyThread extends Thread {
+  public void run() {
+    System.out.println("Thread Running");
+  }
+}
+```
+➤ *Methods:* <br>
+ - start(), run(), sleep(), join(), wait(), notify()
