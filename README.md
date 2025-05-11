@@ -311,3 +311,18 @@ public class JdbcExample {
     }
 }
 ```
+
+<hr>
+
+🔧 **Common JDBC Interfaces**
+
+| Interface           | Purpose                                          |
+| ------------------- | ------------------------------------------------ |
+|  Driver             | Interface for JDBC drivers                       |
+|  Connection         | Represents DB connection                         |
+|  Statement          | Used to execute static SQL                       |
+|  PreparedStatement  | Used for parameterized queries (faster & secure) |
+|  ResultSet          | Holds the results of SQL queries                 |
+|  CallableStatement  | Executes stored procedures                       |
+
+<hr>
