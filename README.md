@@ -152,7 +152,7 @@ list.add("Apple");
 <hr>
 
 ✅ **8. Multithreading** <br>
-Allows concurrent execution of two or more threads (lightweight processes).
+Allows concurrent execution of two or more threads (lightweight processes). <br>
 ➤ *Ways to create thread:* <br>
  - Extending Thread class
  - Implementing Runnable interface
@@ -164,5 +164,5 @@ class MyThread extends Thread {
   }
 }
 ```
-➤ *Methods:* <br>
+➤ *Methods:*
  - start(), run(), sleep(), join(), wait(), notify()
