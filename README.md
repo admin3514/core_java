@@ -131,4 +131,15 @@ try {
 
 <hr>
 
+✅ **7. Collections Framework**  <br>
+Helps in storing, manipulating, and retrieving data efficiently.
+
+```ssh
+| Interface | Implementations                 |
+| --------- | ------------------------------- |
+| List      | ArrayList, LinkedList, Vector   |
+| Set       | HashSet, TreeSet                |
+| Map       | HashMap, TreeMap, LinkedHashMap |
+```
+
 
