@@ -35,7 +35,7 @@ Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code wr
 
 ✅ **Components of Java** <br>
 
-![Alt text](JDK-JRE-JVM.webp)
+![Alt text](JDK-JRE-JVM.webp) <br>
 
 🔹 *JVM (Java Virtual Machine)* <br>
  What it is: A virtual machine that runs Java bytecode. <br>
