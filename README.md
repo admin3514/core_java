@@ -101,6 +101,7 @@ Control visibility of classes and members:
 <hr>
 
 ✅ **5. Important Java Keywords**  <br>
+
 *this*   - Refers to current object <br>
 *super*  - Refers to parent class <br>
 *final*  - Prevents change (variable), override (method), or inheritance (class) <br>
@@ -111,7 +112,7 @@ Control visibility of classes and members:
 <hr>
 
 ✅ **6. Exception Handling**  <br>
-➤ **What is an Exception?**
+➤ **What is an Exception?** <br>
 An error that occurs at runtime and disrupts program flow.
 
 ➤ **Syntax:**
@@ -125,8 +126,8 @@ try {
 }
 ```
 
-*throw :* to throw a custom exception
-*throws :* declares exceptions in method signature
+*throw :* to throw a custom exception <br>
+*throws :* declares exceptions in method signature <br>
 
 <hr>
 
