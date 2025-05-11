@@ -15,6 +15,12 @@ Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code wr
 
 <hr>
 
+🔍 **Summary**  <br>
+**Latest Java version :** Java SE 24 (JDK 24) – Released March 18, 2025  <br>
+**Latest LTS version :** Java SE 21 (JDK 21) – Released September 2023  <br>
+
+<hr>
+
 ✅ **Key Features of Java**
 ```ssh
 
