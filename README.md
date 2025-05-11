@@ -87,6 +87,14 @@ for (int i = 0; i < 10; i++) {
 
 <hr>
 
-✅ **4. Access Modifiers**
+✅ **4. Access Modifiers**  <br>
 Control visibility of classes and members:
+```ssh
+| Modifier    | Class | Package | Subclass | World |
+| ----------- | ----- | ------- | -------- | ----- |
+| `private`   | ✅     | ❌       | ❌        | ❌     |
+| (default)   | ✅     | ✅       | ❌        | ❌     |
+| `protected` | ✅     | ✅       | ✅        | ❌     |
+| `public`    | ✅     | ✅       | ✅        | ✅     |
+```
 
