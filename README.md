@@ -65,14 +65,14 @@ String name = "Java";
 
 <hr>
 
-✅ **3. Control Statements**
+✅ **3. Control Statements**  <br>
 ➤ **Conditional:**
 if, else, switch - decision making
 ```ssh
 if (a > b) { System.out.println("A is greater"); }
 ```
 
-➤ **Loops:**
+➤ **Loops:**  <br>
 for, while, do-while - to repeat code
 ```ssh
 for (int i = 0; i < 5; i++) {
@@ -80,7 +80,7 @@ for (int i = 0; i < 5; i++) {
 }
 ```
 
-➤ **Jumping:**
+➤ **Jumping:**  <br>
 break, continue, return
 ```ssh
 for (int i = 0; i < 10; i++) {
