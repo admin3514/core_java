@@ -250,3 +250,13 @@ class MyThread extends Thread {
 
 <hr>
 
+
+📘 **JDBC Notes (Java Database Connectivity)**
+
+✅ **What is JDBC?**
+
+ - JDBC stands for Java Database Connectivity.  <br>
+ - It is a Java API that allows Java applications to connect to databases and perform CRUD operations (Create, Read, Update, Delete).  <br>
+ - Part of Java SE (Standard Edition).  <br>
+
+
