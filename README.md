@@ -326,3 +326,19 @@ public class JdbcExample {
 |  CallableStatement  | Executes stored procedures                       |
 
 <hr>
+
+🔐 **Advantages of JDBC**
+
+ - Platform-independent.
+ - Easy to integrate Java with various databases.
+ - Supports transaction management. 
+ - Allows batch processing.
+
+<hr>
+
+⚠️ **Best Practices**
+
+ - Use PreparedStatement to avoid SQL injection.
+ - Always close connections, statements, and result sets.
+ - Use connection pooling in real-world applications (e.g., with libraries like HikariCP).
+
