@@ -38,7 +38,7 @@ Java’s tagline is “Write Once, Run Anywhere” — meaning that Java code wr
 ![Alt text](JDK-JRE-JVM.webp)
 
 <p align="center">
-  <img src="JDK-JRE-JVM.webp" alt="Alt text" width="800"/>
+  <img src="JDK-JRE-JVM.webp" alt="Alt text" width="600"/>
 </p>
 
 
