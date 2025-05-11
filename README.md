@@ -101,10 +101,33 @@ Control visibility of classes and members:
 <hr>
 
 ✅ **5. Important Java Keywords**  <br>
+*this*   - Refers to current object <br>
+*super*  - Refers to parent class <br>
+*final*  - Prevents change (variable), override (method), or inheritance (class) <br>
+*static* - Belongs to class, not object <br>
+*abstract* - Used to declare abstract class/method <br>
+*synchronized* - Ensures thread safety <br>
 
-*this*   - Refers to current object
-*super*  - Refers to parent class
-*final*  - Prevents change (variable), override (method), or inheritance (class)
-*static* - Belongs to class, not object
-*abstract* - Used to declare abstract class/method
-*synchronized* - Ensures thread safety
+<hr>
+
+✅ **6. Exception Handling**  <br>
+➤ **What is an Exception?**
+An error that occurs at runtime and disrupts program flow.
+
+➤ **Syntax:**
+```ssh
+try {
+  int a = 5/0;
+} catch (ArithmeticException e) {
+  System.out.println("Can't divide by zero");
+} finally {
+  System.out.println("Always executed");
+}
+```
+
+*throw :* to throw a custom exception
+*throws :* declares exceptions in method signature
+
+<hr>
+
+
