@@ -279,3 +279,15 @@ class MyThread extends Thread {
 | 3    |  Network Protocol Driver    | Sends calls to a middleware server; platform-independent. |
 | 4    |  Thin Driver (Pure Java)    | Directly connects to DB via Java; most commonly used.     |
 
+
+<hr>
+
+🧪 **JDBC Workflow**
+ 1. Load the Driver
+ 2. Establish a Connection
+ 3. Create a Statement
+ 4. Execute Query
+ 5. Process Results
+ 6. Close the Connection
+
+
